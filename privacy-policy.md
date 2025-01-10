@@ -50,6 +50,9 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2025-01-10
 
+**Terms and Conditions**
+[click here](https://github.com/FlussamApps/Barcode-Recognition/blob/main/Terms%20and%20Conditions)
+
 **Contact Us**
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at help.flussamapps@gmail.com.
